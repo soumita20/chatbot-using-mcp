@@ -5,8 +5,7 @@ from mcp_use import MCPAgent, MCPClient
 import os
 import asyncio
 
-async def run_memory_chat():
-    """Run a chat using MCP Agent's built in conversational memory"""
+async def run_memory_chat():""
     load_dotenv()
     os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
     config_file = "browser_mcp.json"
