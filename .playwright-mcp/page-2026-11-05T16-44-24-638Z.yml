@@ -1,0 +1,1463 @@
+- generic [active] [ref=e1]:
+  - region [aria-hidden] [ref=e3]:
+    - generic [ref=e5]:
+      - button [ref=e6] [cursor=pointer]
+      - generic [ref=e10]:
+        - button [ref=e11] [cursor=pointer]: Skip to Form
+        - generic [aria-hidden] [ref=e13]:
+          - generic [ref=e14]:
+            - generic [ref=e15]:
+              - paragraph [ref=e16]:
+                - strong [ref=e21]: "November 5th, 10:14 pm: “Wikipedia still can't be sold.” - An important update for readers in Germany."
+              - paragraph [ref=e22]: Today is the day. We're sorry to interrupt, but it's Thursday, November 5th, and this message will be up for only a few days.
+            - paragraph [ref=e24]:
+              - text: We ask you to reflect on the number of times you visited Wikipedia in the past year and if you're able to give €5 back.
+              - generic [ref=e25]: Our fundraising appeal is displayed over 5 million times a day, but currently only 65,738 people have donated.
+              - text: In the age of AI, access to verifiable facts is crucial. Wikipedia is at the heart of online information, powering everything from your personal searches to emerging AI technologies.
+            - paragraph [ref=e27]: Your gift strengthens the knowledge of today and tomorrow. Just 1% of our readers donate, so if you have given in the past and Wikipedia still provides you with €5 worth of knowledge, kindly donate today. If you are undecided, remember that any contribution helps, whether it's €5 or €25. Thank you.
+          - button [ref=e28] [cursor=pointer]
+          - button [ref=e31] [cursor=pointer]
+          - tablist [ref=e34]:
+            - tab [selected] [ref=e35] [cursor=pointer]
+            - tab [ref=e36] [cursor=pointer]
+            - tab [ref=e37] [cursor=pointer]
+        - generic [ref=e38]:
+          - paragraph [ref=e39]:
+            - strong [ref=e44]: "November 5th, 10:14 pm: “Wikipedia still can't be sold.” - An important update for readers in Germany."
+          - paragraph [ref=e45]: Today is the day. We're sorry to interrupt, but it's Thursday, November 5th, and this message will be up for only a few days. We ask you to reflect on the number of times you visited Wikipedia in the past year and if you're able to give €5 back.
+          - paragraph [ref=e46]:
+            - generic [ref=e47]:
+              - generic [ref=e48]: Our fundraising appeal is displayed over 5 million times a day, but currently only 65,738 people have donated.
+              - text: In the age of AI, access to verifiable facts is crucial. Wikipedia is at the heart of online information, powering everything from your personal searches to emerging AI technologies. Your gift strengthens the knowledge of today and tomorrow.
+          - paragraph [ref=e49]: Just 1% of our readers donate, so if you have given in the past and Wikipedia still provides you with €5 worth of knowledge, kindly donate today. If you are undecided, remember that any contribution helps, whether it's €5 or €25. Thank you.
+        - generic [aria-hidden] [ref=e51]:
+          - generic [ref=e52]: €8.4M
+          - generic [ref=e54]: €1.9M
+      - generic [ref=e57]:
+        - form [ref=e58]:
+          - group [ref=e60]:
+            - generic [ref=e61]:
+              - generic [ref=e62]:
+                - radio [ref=e63] [cursor=pointer]
+                - text: one-time
+              - generic [ref=e64]:
+                - radio [ref=e65] [cursor=pointer]
+                - text: monthly
+              - generic [ref=e66]:
+                - radio [ref=e67] [cursor=pointer]
+                - text: quarterly
+              - generic [ref=e68]:
+                - radio [ref=e69] [cursor=pointer]
+                - text: yearly
+          - group [ref=e71]:
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - radio [ref=e74] [cursor=pointer]
+                - text: €5
+              - generic [ref=e75]:
+                - radio [ref=e76] [cursor=pointer]
+                - text: €10
+              - generic [ref=e77]:
+                - radio [ref=e78] [cursor=pointer]
+                - text: €20
+              - generic [ref=e79]:
+                - radio [ref=e80] [cursor=pointer]
+                - text: €25
+              - generic [ref=e81]:
+                - radio [ref=e82] [cursor=pointer]
+                - text: €50
+              - generic [ref=e83]:
+                - radio [ref=e84] [cursor=pointer]
+                - text: €100
+              - textbox [ref=e88]:
+                - /placeholder: Other amount
+          - group [ref=e90]:
+            - generic [ref=e91]:
+              - radio [ref=e93] [cursor=pointer]
+              - radio [ref=e108] [cursor=pointer]
+          - button [ref=e123] [cursor=pointer]: Proceed with the donation
+        - form [aria-hidden]:
+          - heading [level=2]: Please make it €0 yearly!
+          - generic:
+            - paragraph: Every year we are dependent on the support of people like you. Yearly donations help sustainably and enable long term development.
+            - paragraph: No risks attached, you can tell us to stop at any time.
+          - generic:
+            - button: No, I'll donate €0 one time.
+            - button: Yes, I'll donate €0 each year.
+      - button [ref=e124] [cursor=pointer]:
+        - text: "Donation account:"
+        - strong [ref=e125]: Wikimedia e. V.
+      - button [ref=e128] [cursor=pointer]:
+        - text: "BIC:"
+        - strong [ref=e129]: BFSWDE33XXX
+      - button [ref=e132] [cursor=pointer]:
+        - text: "IBAN:"
+        - strong [ref=e133]: DE09 3702 0500 0003 2873 00
+      - button [ref=e136] [cursor=pointer]: Where does my donation go?
+  - link "Jump to content" [ref=e137] [cursor=pointer]:
+    - /url: "#bodyContent"
+  - banner [ref=e139]:
+    - generic [ref=e140]:
+      - navigation "Site" [ref=e141]:
+        - generic "Main menu" [ref=e142]:
+          - button "Main menu" [ref=e143] [cursor=pointer]
+          - generic [ref=e146]: Main menu
+      - link [ref=e147] [cursor=pointer]:
+        - /url: /wiki/Main_Page
+        - generic [ref=e148]:
+          - img "Wikipedia" [ref=e149]
+          - img "The Free Encyclopedia" [ref=e150]
+    - generic [ref=e151]:
+      - search [ref=e152]:
+        - link "Search" [ref=e153] [cursor=pointer]:
+          - /url: /wiki/Special:Search
+      - navigation "Personal tools" [ref=e156]:
+        - generic [ref=e157]:
+          - navigation "Appearance" [ref=e158]:
+            - generic "Change the appearance of the page's font size, width, and color" [ref=e159]:
+              - button "Appearance" [ref=e160] [cursor=pointer]
+              - generic [ref=e163]: Appearance
+          - list [ref=e166]:
+            - listitem [ref=e167]:
+              - link "Donate" [ref=e168] [cursor=pointer]:
+                - /url: https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+            - listitem [ref=e169]:
+              - link "Create account" [ref=e170] [cursor=pointer]:
+                - /url: /w/index.php?title=Special:CreateAccount&returnto=Freising
+            - listitem [ref=e171]:
+              - link "Log in" [ref=e172] [cursor=pointer]:
+                - /url: /w/index.php?title=Special:UserLogin&returnto=Freising
+  - generic [ref=e174]:
+    - main [ref=e176]:
+      - generic [ref=e177]:
+        - navigation "Contents" [ref=e178]:
+          - generic "Table of Contents" [ref=e179]:
+            - button "Toggle the table of contents" [ref=e180] [cursor=pointer]
+            - generic [ref=e183]: Toggle the table of contents
+        - heading "Freising" [level=1] [ref=e184]
+        - generic [ref=e186]:
+          - button "66 languages" [ref=e187] [cursor=pointer]
+          - generic [ref=e190]: 66 languages
+      - generic [ref=e192]:
+        - navigation "Namespaces" [ref=e194]:
+          - list [ref=e197]:
+            - listitem [ref=e198]:
+              - link "Article" [ref=e199] [cursor=pointer]:
+                - /url: /wiki/Freising
+            - listitem [ref=e201]:
+              - link "Talk" [ref=e202] [cursor=pointer]:
+                - /url: /wiki/Talk:Freising
+        - generic [ref=e204]:
+          - navigation "Views" [ref=e205]:
+            - list [ref=e208]:
+              - listitem [ref=e209]:
+                - link "Read" [ref=e210] [cursor=pointer]:
+                  - /url: /wiki/Freising
+              - listitem [ref=e212]:
+                - link "Edit" [ref=e213] [cursor=pointer]:
+                  - /url: /w/index.php?title=Freising&action=edit
+              - listitem [ref=e215]:
+                - link "View history" [ref=e216] [cursor=pointer]:
+                  - /url: /w/index.php?title=Freising&action=history
+              - listitem [ref=e218]:
+                - link "Save" [ref=e219] [cursor=pointer]:
+                  - /url: "#"
+          - navigation "Page tools" [ref=e222]:
+            - generic [ref=e223]:
+              - button "Tools" [ref=e224] [cursor=pointer]
+              - generic [ref=e227]: Tools
+      - generic "Freising" [ref=e228]:
+        - generic [ref=e229]:
+          - generic [ref=e233]:
+            - link "Coordinates" [ref=e234] [cursor=pointer]:
+              - /url: https://en.wikipedia.org/wiki/Geographic_coordinate_system
+            - text: ":"
+            - generic [ref=e236]:
+              - img "Show location on an interactive map" [ref=e237] [cursor=pointer]
+              - link "48°24′10″N 11°44′56″E" [ref=e238] [cursor=pointer]:
+                - /url: https://geohack.toolforge.org/geohack.php?pagename=Freising&params=48_24_10_N_11_44_56_E_type:city(48953)_region:DE-BY
+                - generic "Maps, aerial photos, and other data for this location" [ref=e240]: 48°24′10″N 11°44′56″E
+          - generic [ref=e241]: From Wikipedia, the free encyclopedia
+        - generic [ref=e243]:
+          - generic [ref=e244]:
+            - note [ref=e245]:
+              - text: For the district, see
+              - link "Freising (district)" [ref=e246] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Freising_(district)
+              - text: .
+            - table [ref=e247]:
+              - rowgroup [ref=e248]:
+                - row [ref=e249]:
+                  - columnheader "Freising" [ref=e250]
+                - row [ref=e252]:
+                  - cell [ref=e253]:
+                    - link "Town" [ref=e255] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Town#Germany
+                - row [ref=e256]:
+                  - cell "Domberg (cathedral hill) Freising Domberg (cathedral hill) Freising" [ref=e257]:
+                    - link [ref=e259] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/File:Domberg_FS.jpg
+                      - img "Domberg (cathedral hill) Freising" [ref=e260]
+                    - generic [ref=e261]: Domberg (cathedral hill) Freising
+                - row [ref=e262]:
+                  - cell "Coat of arms of Freising Coat of arms" [ref=e263]:
+                    - generic [ref=e266]:
+                      - link [ref=e268] [cursor=pointer]:
+                        - /url: https://en.wikipedia.org/wiki/File:DEU_Freising_(Oberbayern)_COA.svg
+                        - img "Coat of arms of Freising" [ref=e269]
+                      - generic [ref=e270]: Coat of arms
+                - row [ref=e271]:
+                  - cell "Location of Freising within Freising district" [ref=e272]:
+                    - figure [ref=e273]:
+                      - link [ref=e276] [cursor=pointer]:
+                        - /url: https://en.wikipedia.org/wiki/File:Freising_in_FS.svg
+                - row [ref=e278]:
+                  - cell "Map Show in full screen Wikimedia | © OpenStreetMap Interactive map of Freising" [ref=e279]:
+                    - link [ref=e280] [cursor=pointer]:
+                      - /url: "#/map/0"
+                      - img "Map" [ref=e281]
+                      - button "Show in full screen" [ref=e283]
+                      - generic [ref=e285]:
+                        - link "Wikimedia" [ref=e286]:
+                          - /url: https://foundation.wikimedia.org/wiki/Maps_Terms_of_Use
+                        - text: "| ©"
+                        - link "OpenStreetMap" [ref=e287]:
+                          - /url: https://www.openstreetmap.org/copyright
+                    - generic [ref=e288]: Interactive map of Freising
+                - row [ref=e289]:
+                  - cell "Freising is located in Germany Freising Location within Germany Show map of Germany Show map of Bavaria Show both" [ref=e290]:
+                    - generic [ref=e291]:
+                      - generic [ref=e294]:
+                        - generic [ref=e295]:
+                          - link [ref=e297] [cursor=pointer]:
+                            - /url: https://en.wikipedia.org/wiki/File:Germany_adm_location_map.svg
+                            - img "Freising is located in Germany" [ref=e298]
+                          - generic "Freising" [ref=e301]:
+                            - img "Freising" [ref=e302]
+                        - generic [ref=e303]: Location within Germany
+                      - generic [ref=e304]:
+                        - radio "Show map of Germany" [checked] [ref=e305]
+                        - text: Show map of Germany
+                      - generic [ref=e306]:
+                        - radio "Show map of Bavaria" [ref=e307]
+                        - text: Show map of Bavaria
+                      - generic [ref=e308]:
+                        - radio "Show both" [ref=e309]
+                        - text: Show both
+                - row [ref=e310]:
+                  - cell [ref=e311]:
+                    - text: "Coordinates:"
+                    - generic [ref=e314]:
+                      - img "Show location on an interactive map" [ref=e315] [cursor=pointer]
+                      - link "48°24′10″N 11°44′56″E" [ref=e316] [cursor=pointer]:
+                        - /url: https://geohack.toolforge.org/geohack.php?pagename=Freising&params=48_24_10_N_11_44_56_E_type:city(48953)_region:DE-BY
+                        - generic "Maps, aerial photos, and other data for this location" [ref=e318]: 48°24′10″N 11°44′56″E
+                - row [ref=e319]:
+                  - rowheader "Country" [ref=e320]
+                  - cell [ref=e321]:
+                    - link "Germany" [ref=e322] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Germany
+                - row [ref=e323]:
+                  - rowheader [ref=e324]:
+                    - link "State" [ref=e325] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/States_of_Germany
+                  - cell [ref=e326]:
+                    - link "Bavaria" [ref=e327] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Bavaria
+                - row [ref=e328]:
+                  - rowheader [ref=e329]:
+                    - link "Admin. region" [ref=e330] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Regierungsbezirk
+                  - cell [ref=e331]:
+                    - link "Oberbayern" [ref=e332] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Oberbayern_(region)
+                - row [ref=e333]:
+                  - rowheader [ref=e334]:
+                    - link "District" [ref=e335] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Districts_of_Germany
+                  - cell [ref=e336]:
+                    - link "Freising" [ref=e337] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Freising_(district)
+                - row [ref=e338]:
+                  - rowheader "Subdivisions" [ref=e339]
+                  - cell [ref=e340]:
+                    - text: "29"
+                    - generic "German-language text" [ref=e341]:
+                      - link "Stadtteile" [ref=e343] [cursor=pointer]:
+                        - /url: https://en.wikipedia.org/wiki/Stadtteil
+                - row [ref=e344]:
+                  - columnheader "Government" [ref=e345]
+                - row [ref=e346]:
+                  - rowheader "• Mayor (2020–26)" [ref=e347]:
+                    - text: •
+                    - link "Mayor" [ref=e348] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Mayor
+                    - generic [ref=e349]: (2020–26)
+                  - cell [ref=e350]:
+                    - text: Tobias Eschenbacher
+                    - superscript [ref=e351]:
+                      - link "[1]" [ref=e352] [cursor=pointer]:
+                        - /url: "#cite_note-1"
+                - row [ref=e353]:
+                  - columnheader "Area" [ref=e354]
+                - row [ref=e355]:
+                  - rowheader "• Total" [ref=e356]
+                  - cell [ref=e358]:
+                    - text: 88.59 km
+                    - superscript [ref=e359]: "2"
+                    - text: (34.20 sq mi)
+                - row [ref=e360]:
+                  - rowheader "Elevation" [ref=e361]
+                  - cell "448 m (1,470 ft)" [ref=e362]
+                - row [ref=e363]:
+                  - columnheader [ref=e364]:
+                    - text: Population
+                    - generic [ref=e365]:
+                      - text: (2025-12-31)
+                      - superscript [ref=e367]:
+                        - link "[2]" [ref=e368] [cursor=pointer]:
+                          - /url: "#cite_note-2"
+                - row [ref=e369]:
+                  - rowheader "• Total" [ref=e370]
+                  - cell "48,953" [ref=e372]
+                - row [ref=e373]:
+                  - rowheader "• Density" [ref=e374]
+                  - cell [ref=e375]:
+                    - text: 552.6/km
+                    - superscript [ref=e376]: "2"
+                    - text: (1,431/sq mi)
+                - row [ref=e377]:
+                  - rowheader [ref=e378]:
+                    - link "Time zone" [ref=e379] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Time_in_Germany
+                  - cell [ref=e380]:
+                    - link "UTC+01:00" [ref=e381] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/UTC+01:00
+                    - text: (
+                    - link "CET" [ref=e382] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Central_European_Time
+                    - text: )
+                - row [ref=e383]:
+                  - rowheader [ref=e384]:
+                    - generic [ref=e385]:
+                      - text: • Summer (
+                      - link "DST" [ref=e386] [cursor=pointer]:
+                        - /url: https://en.wikipedia.org/wiki/Daylight_saving_time
+                      - text: )
+                  - cell [ref=e387]:
+                    - link "UTC+02:00" [ref=e388] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/UTC+02:00
+                    - text: (
+                    - link "CEST" [ref=e389] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Central_European_Summer_Time
+                    - text: )
+                - row [ref=e390]:
+                  - rowheader [ref=e391]:
+                    - link "Postal codes" [ref=e392] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Postal_codes_in_Germany
+                  - cell "85354, 85356" [ref=e393]
+                - row [ref=e395]:
+                  - rowheader [ref=e396]:
+                    - link "Dialling codes" [ref=e397] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/List_of_dialling_codes_in_Germany
+                  - cell "08161" [ref=e398]
+                - row [ref=e399]:
+                  - rowheader [ref=e400]:
+                    - link "Vehicle registration" [ref=e401] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Germany
+                  - cell "FS" [ref=e402]
+                - row [ref=e403]:
+                  - rowheader "Website" [ref=e404]
+                  - cell [ref=e405]:
+                    - link "www.freising.de" [ref=e408] [cursor=pointer]:
+                      - /url: https://www.freising.de/
+                    - link [ref=e410] [cursor=pointer]:
+                      - /url: https://www.wikidata.org/wiki/Q6998#P856
+                      - img "Edit this at Wikidata" [ref=e411]
+            - paragraph [ref=e412]:
+              - text: "Freising ( German pronunciation:"
+              - link "[ˈfʁaɪzɪŋ]" [ref=e414] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Help:IPA/Standard_German
+              - generic [ref=e415]:
+                - button "Play audio" [ref=e417] [cursor=pointer]
+                - superscript [ref=e419]:
+                  - link "ⓘ" [ref=e420] [cursor=pointer]:
+                    - /url: /wiki/File:De-Freising.ogg
+              - text: ) is a university
+              - link "town" [ref=e421] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Town#Germany
+              - text: in
+              - link "Bavaria" [ref=e422] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Bavaria
+              - text: ", Germany, and the capital of the"
+              - link "Freising" [ref=e423] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Freising_(district)
+              - link "Landkreis (district)" [ref=e424] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Districts_of_Germany
+                - generic "German-language text" [ref=e425]: Landkreis
+                - text: (district)
+              - text: ", with a population of about 50,000."
+          - region [ref=e426]:
+            - generic [ref=e427]:
+              - heading "Location" [level=2] [ref=e428]
+              - link "edit" [ref=e430] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=1
+            - paragraph [ref=e431]:
+              - text: Freising is the oldest town between
+              - link "Regensburg" [ref=e432] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Regensburg
+              - text: and
+              - link "Bolzano" [ref=e433] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Bolzano
+              - text: ", and is located on the"
+              - link "Isar" [ref=e434] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Isar
+              - text: river in
+              - link "Upper Bavaria" [ref=e435] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Upper_Bavaria
+              - text: ", north of"
+              - link "Munich" [ref=e436] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Munich
+              - text: and near the
+              - link "Munich International Airport" [ref=e437] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Munich_International_Airport
+              - text: ". The city is built on and around two prominent hills: the Cathedral Hill (Domberg) with the former Bishop's Residence and"
+              - link "Freising Cathedral" [ref=e438] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Freising_cathedral
+              - text: ", and"
+              - link "Weihenstephan" [ref=e439] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Weihenstephan
+              - text: Hill (Weihenstephaner Berg) with the former
+              - link "Weihenstephan Abbey" [ref=e440] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Weihenstephan_Abbey
+              - text: ", containing the oldest working brewery in the world. It was also the location of the first recorded tornado in Europe. The city is 448 metres above sea level."
+          - region [ref=e441]:
+            - generic [ref=e442]:
+              - heading "Cultural significance" [level=2] [ref=e443]
+              - link "edit" [ref=e445] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=2
+            - paragraph [ref=e446]:
+              - text: Freising is one of the oldest settlements in Bavaria, becoming a major religious centre in the early Middle Ages. It is the centre of an important
+              - link "diocese" [ref=e447] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Diocese
+              - text: ". Some important historical documents were created between 900 and 1200 in its monastery:"
+            - list [ref=e448]:
+              - listitem [ref=e449]:
+                - link "Freising manuscripts" [ref=e450] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Freising_manuscripts
+                - text: written in
+                - link "Slovenian" [ref=e451] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Slovenian_language
+                - text: ", being the first"
+                - link "Roman-script" [ref=e452] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Latin_alphabet
+                - text: continuous text in a
+                - link "Slavic language" [ref=e453] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Slavic_languages
+              - listitem [ref=e454]:
+                - link "Chronicle or history of the two cities" [ref=e455] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Otto_of_Freising#Chronica_de_duabus_civitatibus
+                - text: by
+                - link "Otto of Freising" [ref=e456] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Otto_of_Freising
+            - paragraph [ref=e457]:
+              - text: The above and other scripts from that time can be found in the "Bayerische Staatsbibliothek" (
+              - link "Bavarian State Library" [ref=e458] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Bavarian_State_Library
+              - text: ) in Munich.
+          - region [ref=e459]:
+            - generic [ref=e460]:
+              - heading "History" [level=2] [ref=e461]
+              - link "edit" [ref=e463] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=3
+            - paragraph [ref=e464]:
+              - text: Even though archaeological finds show that the area was settled in the
+              - link "late Stone Age" [ref=e465] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Stone_Age
+              - text: and
+              - link "Bronze Age" [ref=e466] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Bronze_Age
+              - text: ", no proof has been found yet to suggest a continuous settlement until the 8th century AD."
+            - paragraph [ref=e467]:
+              - text: Around 700 AD the Frankish
+              - link "Agilolfing" [ref=e468] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Agilolfings
+              - text: dukes built a simple palace on the highest hill in Freising as part of its
+              - link "Duchy of Bavaria" [ref=e469] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Duchy_of_Bavaria
+              - text: .
+              - superscript [ref=e470]:
+                - link "[3]" [ref=e471] [cursor=pointer]:
+                  - /url: "#cite_note-3"
+            - paragraph [ref=e472]:
+              - text: In 724 AD, the Frankish Saint
+              - link "Corbinian" [ref=e473] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Corbinian
+              - text: was sent to the Duchy of Bavaria by the Catholic Church to
+              - link "spread Christianity" [ref=e474] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Christianisation_of_the_Germanic_peoples
+              - text: . On the highest hill in Freising, where there was already a simple sanctuary, Corbinian erected a
+              - link "Benedictine" [ref=e475] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Benedictines
+              - text: monastery and a school, to help preach the Gospel to the
+              - link "local people" [ref=e476] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Baiuvarii
+              - text: .
+            - paragraph [ref=e477]:
+              - text: According to his Vita by Bishop
+              - link "Arbeo" [ref=e478] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Arbeo_of_Freising
+              - text: ", Corbinian was on his way to"
+              - link "Rome" [ref=e479] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Rome
+              - text: when his
+              - link "packhorse" [ref=e480] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Packhorse
+              - text: was attacked and killed by a wild bear. By divine power, Corbinian ordered the bear to carry his luggage over the
+              - link "Alps" [ref=e481] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Alps
+              - text: . When he finally arrived in Rome he let the bear free. The saddled bear is still the symbol of the city, displayed in the coat of arms, as well as statues and paintings.
+              - superscript [ref=e482]:
+                - link "[4]" [ref=e483] [cursor=pointer]:
+                  - /url: "#cite_note-4"
+              - text: After Corbinian's death,
+              - link "Saint Boniface" [ref=e484] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Saint_Boniface
+              - text: established Freising as a Catholic
+              - link "diocese" [ref=e485] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Diocese
+              - text: . Between 764–783, Bishop
+              - link "Arbeo" [ref=e486] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Arbeo
+              - text: founded a library and a
+              - link "scriptorium" [ref=e488] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Scriptorium
+              - text: (writing room) at the abbey. The settlement started to become a religious centre.
+            - paragraph [ref=e489]:
+              - text: The
+              - link "earliest recorded tornado" [ref=e490] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Tornado_records
+              - text: in Europe struck Freising in 788.
+              - superscript [ref=e491]:
+                - link "[5]" [ref=e492] [cursor=pointer]:
+                  - /url: "#cite_note-5"
+              - superscript [ref=e493]:
+                - link "[6]" [ref=e494] [cursor=pointer]:
+                  - /url: "#cite_note-6"
+            - paragraph [ref=e495]:
+              - text: The mortal remains of
+              - link "Pope Alexander I" [ref=e496] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Pope_Alexander_I
+              - text: are said to have been transferred to Freising in 834. In 996, Freising received city rights from Emperor
+              - link "Otto III" [ref=e497] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Otto_III
+              - text: .
+            - paragraph [ref=e498]:
+              - text: As early as the 10th century, in order to collect additional revenue, monks were sent from Freising down the
+              - link "Isar" [ref=e499] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Isar
+              - text: River to build a toll bridge on the
+              - link "Salt Road" [ref=e500] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Salt_Road
+              - text: between Salzburg and Augsburg. This village would be later known as München (or
+              - link "Munich" [ref=e501] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Munich
+              - text: ", which means 'of the monks'). By 1158,"
+              - link "Duke Henry the Lion" [ref=e502] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Henry_the_Lion
+              - text: destroyed the bridge and customs building and built new ones closer to his home further downriver, (near the center of modern downtown Munich), so that he could collect the revenue instead.
+              - superscript [ref=e503]:
+                - link "[7]" [ref=e504] [cursor=pointer]:
+                  - /url: "#cite_note-7"
+            - paragraph [ref=e505]:
+              - text: The construction of the
+              - link "Freising Cathedral" [ref=e506] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Freising_Cathedral
+              - text: in its current
+              - link "Romanesque" [ref=e507] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Romanesque_architecture
+              - text: style started in 1159 and was completed in 1205. The Romanesque wooden ceiling was replaced by a gothic vault in 1481–1483.
+              - superscript [ref=e508]:
+                - link "[8]" [ref=e509] [cursor=pointer]:
+                  - /url: "#cite_note-8"
+            - paragraph [ref=e510]:
+              - text: Freising went through difficult times during the
+              - link "Thirty Years' War" [ref=e511] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Thirty_Years'_War
+              - text: . In 1632, the Swedish King
+              - link "Gustavus Adolphus" [ref=e512] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Gustavus_Adolphus_of_Sweden
+              - text: came through Freising on his way to Munich. He demanded 30,000 guilders as the sum to protect the city from destruction. Nevertheless, his army sacked the city. Hunger and plague raged when the Swedes invaded the city again in 1646. In 1674, the Church placed a statue of the Virgin Mary in the city square as a sign that war and plague had been overcome.
+              - superscript [ref=e513]:
+                - link "[9]" [ref=e514] [cursor=pointer]:
+                  - /url: "#cite_note-9"
+            - paragraph [ref=e515]:
+              - text: A wave of
+              - link "witch hunts" [ref=e516] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Witch-hunt
+              - text: and trials broke out from 1715–1717 in Freising, and again in 1721–1723. Most of the accused were child beggars. Several children were executed.
+              - superscript [ref=e517]:
+                - link "[10]" [ref=e518] [cursor=pointer]:
+                  - /url: "#cite_note-10"
+            - paragraph [ref=e519]:
+              - text: In 1802/1803 Bavaria fell under the influence of Napoleonic France and church-controlled lands were
+              - link "secularized" [ref=e520] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/German_mediatisation
+              - text: . In Freising, the more than thousand-year-old bishopric was abolished. The Roman Catholic Church lost most of its properties and authority over the city.
+              - superscript [ref=e521]:
+                - link "[11]" [ref=e522] [cursor=pointer]:
+                  - /url: "#cite_note-11"
+              - text: Although the seat of the
+              - link "diocese" [ref=e523] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Munich_and_Freising
+              - text: was moved to Munich in 1821, including the elevation to an archdiocese, Freising has remained the seat of diocesan administration until today.
+              - superscript [ref=e524]:
+                - text: "["
+                - link "clarification needed" [ref=e526] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Wikipedia:Please_clarify
+                - text: "]"
+              - text: The Diocesan Museum is located in Freising.
+              - superscript [ref=e527]:
+                - link "[12]" [ref=e528] [cursor=pointer]:
+                  - /url: "#cite_note-12"
+            - paragraph [ref=e529]:
+              - text: In 1858 the
+              - link "Bavarian Eastern Railway Company" [ref=e530] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Bavarian_Eastern_Railway_Company
+              - text: built the first railway line from Munich to Freising, Landshut and Regensburg for passenger and rail traffic.
+              - superscript [ref=e531]:
+                - link "[13]" [ref=e532] [cursor=pointer]:
+                  - /url: "#cite_note-13"
+            - paragraph [ref=e533]:
+              - text: Near the
+              - link "end of the Second World War" [ref=e534] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Western_Allied_invasion_of_Germany
+              - text: ", Allied aircraft bombed Freising on 18 April 1945. By 30 April, units of the US Army arrived in Freising."
+              - superscript [ref=e535]:
+                - link "[14]" [ref=e536] [cursor=pointer]:
+                  - /url: "#cite_note-14"
+            - paragraph [ref=e537]:
+              - text: In 1998,
+              - link "Mamdouh Mahmud Salim" [ref=e538] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Mamdouh_Mahmud_Salim
+              - text: ", also known as Abu Hajir al-Iraqi, a key figure in the founding of"
+              - link "al-Qaeda" [ref=e539] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Al-Qaeda
+              - text: and a trusted associate of
+              - link "Osama Bin Laden" [ref=e540] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Osama_bin_Laden
+              - text: ", was apprehended in Freising."
+              - superscript [ref=e541]:
+                - link "[15]" [ref=e542] [cursor=pointer]:
+                  - /url: "#cite_note-:0-15"
+            - paragraph [ref=e543]:
+              - text: In 2006,
+              - link "Pope Benedict XVI" [ref=e544] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Pope_Benedict_XVI
+              - text: visited Freising during a papal visit. He was formerly archbishop of Munich/Freising from 1977 to 1982.
+              - superscript [ref=e545]:
+                - link "[16]" [ref=e546] [cursor=pointer]:
+                  - /url: "#cite_note-16"
+          - region [ref=e547]:
+            - generic [ref=e548]:
+              - heading "Education and research" [level=2] [ref=e549]
+              - link "edit" [ref=e551] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=4
+            - region [ref=e552]:
+              - generic [ref=e553]:
+                - heading "Schools" [level=3] [ref=e554]
+                - link "edit" [ref=e556] [cursor=pointer]:
+                  - /url: /w/index.php?title=Freising&action=edit&section=5
+              - paragraph [ref=e557]: There are several elementary schools in the city of Freising. The St. Korbinian elementary school is located in the city center, the Neustift elementary school in Neustift, the St. Lantbert elementary school in Lerchenfeld and the Paul-Gerhardt elementary school in the north of the city. Another elementary school is the Vötting Elementary School, to which the schoolhouse in Pulling also belongs.
+              - paragraph [ref=e558]:
+                - text: Secondary schools include the three secondary schools Neustift, Paul-Gerhard and Lerchenfeld. The first two are located at the sites of the elementary schools of the same names. The Karl-Meichelbeck-Realschule is located in the immediate vicinity of the Paul-Gerhard-Schule. At Guten Änger in Lerchenfeld, the new
+                - link "Montessori school" [ref=e559] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Montessori_school
+                - text: building was opened in 2015 and a second
+                - link "Realschule" [ref=e560] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Realschule
+                - text: in 2018. The Wippenhauser Straße is home to the Wirtschaftsschule and the
+                - link "Fachoberschule" [ref=e561] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Fachoberschule
+                - text: /
+                - link "Berufsoberschule" [ref=e562] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Berufsoberschule
+                - text: . The oldest of Freising's three high schools is the Dom-Gymnasium on the Domberg. The Camerloher-Gymnasium is one of the few artistic grammar schools. The
+                - link "Josef-Hofmiller-Gymnasium" [ref=e563] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Josef-Hofmiller-Gymnasium
+                - text: ", which emerged from the Dom-Gymnasium, is Freising's largest grammar school."
+              - paragraph [ref=e564]:
+                - text: The Freising Vocational School and the Vocational School for Child Care are located in the same building. The latter is a full-time school that trains
+                - link "pediatric nurses" [ref=e565] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Pediatric_nurses
+                - text: in two years. The vocational school for nursing is affiliated with the Freising Clinic. The Weihenstephan State Vocational School for
+                - link "Floral Art" [ref=e566] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Floral_art
+                - text: offers advanced training to become a state-certified designer for floral art.
+            - region [ref=e567]:
+              - generic [ref=e568]:
+                - heading "Universities" [level=3] [ref=e569]
+                - link "edit" [ref=e571] [cursor=pointer]:
+                  - /url: /w/index.php?title=Freising&action=edit&section=6
+              - paragraph [ref=e572]:
+                - text: The Freising-Weihenstephan campus is an extensive complex of higher education institutions and research institutes in the western urban area of Freising, in the
+                - link "Weihenstephan" [ref=e573] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Weihenstephan
+                - text: and Vötting districts. It has been developed into the so-called "Green Center of Bavaria" for decades and continues to be modernized and designed as a "science and research campus". It includes not only the "
+                - link "Center of Life Sciences" [ref=e574] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/TUM_School_of_Life_Sciences
+                - text: "\", the Weihenstephan Science Center for Nutrition, Land Use and Environment of the"
+                - link "Technical University of Munich" [ref=e575] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Technical_University_of_Munich
+                - text: ", but also the most important part of the"
+                - link "Weihenstephan-Triesdorf University of Applied Sciences" [ref=e576] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Weihenstephan-Triesdorf_University_of_Applied_Science
+                - text: .
+              - paragraph [ref=e577]:
+                - text: The Freising Clinic is an academic teaching hospital of the
+                - link "Technical University of Munich" [ref=e578] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Technical_University_of_Munich
+                - text: . It is located north of the old town.
+            - region [ref=e579]:
+              - generic [ref=e580]:
+                - heading "Research and education centers" [level=3] [ref=e581]
+                - link "edit" [ref=e583] [cursor=pointer]:
+                  - /url: /w/index.php?title=Freising&action=edit&section=7
+              - paragraph [ref=e584]:
+                - text: Several research centers have been established in the vicinity of the two universities, i.e. mostly located on campus. The TUM Weihenstephan Research Center for Brewing and Food Quality, the TUM Central Institute for Nutrition and Food Research and the TUM Hans Eisenmann Center for Agricultural Sciences belong to the
+                - link "Technical University of Munich" [ref=e585] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Technical_University_of_Munich
+                - text: . The Bavarian State Institute of Agriculture and the Bavarian State Institute of Forestry and Forestry are authorities of the
+                - link "Free State of Bavaria" [ref=e586] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Bavaria
+                - text: .
+              - paragraph [ref=e587]: Other non-university institutions include the German Research Institute for Food Chemistry, the Fraunhofer Institute for Process Engineering and Packaging, DEULA Bavaria and the IZB Freising-Weihenstephan start-up center for green biotechnology.
+              - paragraph [ref=e588]: In addition to the natural sciences and technology, there are facilities in the area of religious education. The Institut für Theologische und Pastorale Fortbildung Freising is dedicated to the continuing education of pastoral counselors. The Kardinal-Döpfner-Haus educational center is also located in the former residence on the Domberg. Further offers are provided by the Katholisches Kreisbildungswerk and the Pallotti-Haus, a Christian educational house and therapy center.
+            - region [ref=e589]:
+              - generic [ref=e590]:
+                - heading "Libraries" [level=3] [ref=e591]
+                - link "edit" [ref=e593] [cursor=pointer]:
+                  - /url: /w/index.php?title=Freising&action=edit&section=8
+              - paragraph [ref=e594]:
+                - text: The oldest library in Freising is the Freising Cathedral Library, located on the Domberg. This was founded by Bishop Arbeo and is the central library of the
+                - link "Archdiocese of Munich and Freising" [ref=e595] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Roman_Catholic_Archdiocese_of_Munich_and_Freising
+                - text: and one of the largest church libraries in
+                - link "Germany" [ref=e596] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Germany
+                - text: . The city library was founded in 1959. The central library of the
+                - link "Weihenstephan-Triesdorf University of Applied Sciences" [ref=e597] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Weihenstephan-Triesdorf_University_of_Applied_Science
+                - text: is located in the
+                - link "Hofgarten" [ref=e598] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Hofgarten_(Munich)
+                - text: in
+                - link "Weihenstephan" [ref=e599] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Weihenstephan
+                - text: . Also in
+                - link "Weihenstephan" [ref=e600] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Weihenstephan
+                - text: is a branch library of the University Library of the
+                - link "Technical University of Munich" [ref=e601] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Technical_University_of_Munich
+                - text: .
+            - region [ref=e602]:
+              - generic [ref=e603]:
+                - heading "City archive" [level=3] [ref=e604]
+                - link "edit" [ref=e606] [cursor=pointer]:
+                  - /url: /w/index.php?title=Freising&action=edit&section=9
+              - paragraph [ref=e607]: The Stadtarchiv Freising is a scientific institution of the city of Freising. It holds documents from the 14th century to the present day. It has existed as an institution since 1909. It is a public institution, open to all citizens and offers a reference library with about 4500 volumes in a reading room.
+              - paragraph [ref=e608]: Since 2003, the Freising Municipal Archives have been temporarily located in the "Haus der Vereine" (House of Associations), a barracks building of the Jägerkaserne (Vimy Barracks from 1938), which was built in 1906 and has since been abandoned. It will remain in this listed building until a new building is realized in Fischergasse, east of the former prison.
+          - region [ref=e609]:
+            - generic [ref=e610]:
+              - heading "Transport" [level=2] [ref=e611]
+              - link "edit" [ref=e613] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=10
+            - paragraph [ref=e614]:
+              - link "Freising station" [ref=e615] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Freising_station
+              - text: ", situated on the southern edge of the old town, is on the"
+              - link "Munich to Regensburg railway" [ref=e616] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Munich–Regensburg_railway
+              - text: . It is the northern terminus of line
+              - link "S1" [ref=e618] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/S1_(Munich)
+              - text: of the
+              - link "Munich S-Bahn" [ref=e619] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Munich_S-Bahn
+              - text: ", which connects Freising with"
+              - link "Munich" [ref=e620] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Munich
+              - text: at 20 minute intervals. It is also served by an hourly service on
+              - link "RE 22" [ref=e622] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/List_of_railway_routes_in_Bavaria#Lines_2,_20–29_(southwest)
+              - text: to/from
+              - link "Munich Airport" [ref=e623] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Munich_Airport
+              - text: . Other services call at the station on journeys to Munich,
+              - link "Nuremberg" [ref=e624] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Nuremberg
+              - text: ","
+              - link "Passau" [ref=e625] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Passau
+              - text: ","
+              - link "Prague" [ref=e626] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Prague
+              - text: and
+              - link "Regensburg" [ref=e627] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Regensburg
+              - text: .
+            - paragraph [ref=e628]:
+              - text: The
+              - link "A92 motorway" [ref=e629] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Bundesautobahn_92
+              - text: crosses the southern part of the city, connecting Freising to Munich and
+              - link "Lower Bavaria" [ref=e630] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Lower_Bavaria
+              - text: . The A92 connects to the
+              - link "A99 Munich ring motorway" [ref=e631] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Bundesautobahn_99
+              - text: ", which provides further connections to other parts of Bavaria and Germany."
+            - paragraph [ref=e632]:
+              - text: Freising has a city bus network that is integrated into the fare structure of the
+              - link "Munich Transport Association" [ref=e633] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Munich_Transport_Association
+              - text: (MVV). It is also connected to a number of regional bus routes, including ones to Munich Airport and the
+              - link "Garching campus" [ref=e634] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Campus_Garching
+              - text: of the
+              - link "Technical University of Munich" [ref=e635] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Technical_University_of_Munich
+              - text: . All bus routes serve the railway station.
+          - region [ref=e636]:
+            - generic [ref=e637]:
+              - heading "Twin towns – sister cities" [level=2] [ref=e638]
+              - link "edit" [ref=e640] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=11
+            - figure [ref=e641]:
+              - link [ref=e642] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/File:Freising_-_Marienplatz_mit_Rathaus.jpg
+              - link "Marienplatz" [ref=e645] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Marienplatz_(Freising)?action=edit&redlink=1
+            - note [ref=e646]:
+              - text: "See also:"
+              - link "List of twin towns and sister cities in Germany" [ref=e647] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/List_of_twin_towns_and_sister_cities_in_Germany
+            - paragraph [ref=e648]:
+              - text: Freising is
+              - link "twinned" [ref=e649] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/Sister_city
+              - text: "with:"
+              - superscript [ref=e650]:
+                - link "[17]" [ref=e651] [cursor=pointer]:
+                  - /url: "#cite_note-17"
+            - list [ref=e653]:
+              - listitem [ref=e654]:
+                - link [ref=e657] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/France
+                  - img "France" [ref=e658]
+                - link "Arpajon" [ref=e659] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Arpajon
+                - text: ", France (1991)"
+              - listitem [ref=e660]:
+                - link [ref=e663] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Italy
+                  - img "Italy" [ref=e664]
+                - link "Innichen" [ref=e665] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Innichen
+                - text: ", Italy (1969)"
+              - listitem [ref=e666]:
+                - link [ref=e669] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Austria
+                  - img "Austria" [ref=e670]
+                - link "Maria Wörth" [ref=e671] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Maria_Wörth
+                - text: ", Austria (1978)"
+              - listitem [ref=e672]:
+                - link [ref=e675] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Austria
+                  - img "Austria" [ref=e676]
+                - link "Obervellach" [ref=e677] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Obervellach
+                - text: ", Austria (1963)"
+              - listitem [ref=e678]:
+                - link [ref=e681] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Slovenia
+                  - img "Slovenia" [ref=e682]
+                - link "Škofja Loka" [ref=e683] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Municipality_of_Škofja_Loka
+                - text: ", Slovenia (2004)"
+              - listitem [ref=e684]:
+                - link [ref=e687] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Austria
+                  - img "Austria" [ref=e688]
+                - link "Waidhofen an der Ybbs" [ref=e689] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Waidhofen_an_der_Ybbs
+                - text: ", Austria (1986)"
+          - region [ref=e690]:
+            - generic [ref=e691]:
+              - heading "Notable people" [level=2] [ref=e692]
+              - link "edit" [ref=e694] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=12
+            - list [ref=e695]:
+              - listitem [ref=e696]:
+                - link "Sandra Abstreiter" [ref=e697] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Sandra_Abstreiter
+                - text: (born 1998),
+                - link "Ice hockey" [ref=e698] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Ice_hockey
+                - text: goaltender
+              - listitem [ref=e699]:
+                - link "Otto of Freising" [ref=e700] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Otto_of_Freising
+                - text: (1112–1158), bishop
+              - listitem [ref=e701]:
+                - link "Mair von Landshut" [ref=e702] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Mair_von_Landshut
+                - text: ", late 15th-century artist, was a citizen and probably born in Freising"
+              - listitem [ref=e703]:
+                - link "Georg Eder" [ref=e704] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Georg_Eder
+                - text: (1523–1587), jurist and historian
+              - listitem [ref=e705]:
+                - link "Martin Ruland the Elder" [ref=e706] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Martin_Ruland_the_Elder
+                - text: (1532–1602), physician and alchemist
+              - listitem [ref=e707]:
+                - link "Johann Stadlmayr" [ref=e708] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Johann_Stadlmayr
+                - text: (1575–1648), court music director and composer
+              - listitem [ref=e709]:
+                - link "Benignus von Safferling" [ref=e710] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Benignus_von_Safferling
+                - text: (1824–1899), Bavarian General and Minister of War
+              - listitem [ref=e711]:
+                - link "Ludwig Prandtl" [ref=e712] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Ludwig_Prandtl
+                - text: (1875–1953), physicist
+              - listitem [ref=e713]:
+                - link "Ernst Kraus" [ref=e714] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Ernst_Kraus_(geologist)?action=edit&redlink=1
+                - text: (1889–1970), a German geologist
+              - listitem [ref=e715]:
+                - link "Karl Maria Demelhuber" [ref=e716] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Karl_Maria_Demelhuber
+                - text: (1896–1988), SS-Obergruppenführer and General of the Waffen-SS
+              - listitem [ref=e717]:
+                - link "Anton Schlüter" [ref=e718] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Anton_Schlüter_München
+                - text: (died 1999), tractor manufacturer
+              - listitem [ref=e719]:
+                - link "Jost Raba" [ref=e720] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Jost_Raba
+                - text: (1900–2000), violinist
+              - listitem [ref=e721]:
+                - link "Karl Gustav Fellerer" [ref=e722] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Karl_Gustav_Fellerer
+                - text: (1902–1984), a German musicologist
+              - listitem [ref=e723]:
+                - link "Albrecht Obermaier" [ref=e724] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Albrecht_Obermaier
+                - text: (1912–2004), German naval officer, last deputy naval officer of the Bundesmarine
+              - listitem [ref=e725]:
+                - link "Pope Benedict XVI" [ref=e726] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Pope_Benedict_XVI
+                - text: (1927–2022), Pope from 2005–2013
+              - listitem [ref=e727]:
+                - link "Karl Huber (artist)" [ref=e728] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Karl_Huber_(artist)?action=edit&redlink=1
+                - text: (1928–2009), German painter and sculptor
+              - listitem [ref=e729]:
+                - link "Heinrich Reinhardt" [ref=e730] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Heinrich_Reinhardt_(priest)?action=edit&redlink=1
+                - generic [ref=e731]:
+                  - text: "["
+                  - link "de" [ref=e732] [cursor=pointer]:
+                    - /url: https://de.wikipedia.org/wiki/Heinrich%20Reinhardt%20(Philosoph)
+                  - text: "]"
+                - text: (born 1947), Roman Catholic priest and professor of philosophy
+              - listitem [ref=e733]:
+                - link "Peter Neumair" [ref=e734] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Peter_Neumair
+                - text: (born 1950), wrestler
+              - listitem [ref=e735]:
+                - link "Joseph Weiss" [ref=e736] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Joseph_Weiß_(diplomat)?action=edit&redlink=1
+                - generic [ref=e737]:
+                  - text: "["
+                  - link "de" [ref=e738] [cursor=pointer]:
+                    - /url: https://de.wikipedia.org/wiki/Joseph%20Weiß%20(Diplomat)
+                  - text: "]"
+                - text: (born 1959), German diplomat
+              - listitem [ref=e739]:
+                - link "Hans Pflügler" [ref=e740] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Hans_Pflügler
+                - text: "(born 1960), footballer, former clubs:"
+                - link "Bayern Munich" [ref=e741] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Bayern_Munich
+                - text: "- World champion 1990"
+              - listitem [ref=e742]:
+                - link "Alexander Kutschera" [ref=e743] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Alexander_Kutschera
+                - text: (born 1968), footballer
+              - listitem [ref=e744]:
+                - link "Stefan Diez" [ref=e745] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Stefan_Diez
+                - text: (born 1971), German industrial designer
+              - listitem [ref=e746]:
+                - link "Ferdinand Bader" [ref=e747] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Ferdinand_Bader
+                - text: (born 1981), ski jumper
+              - listitem [ref=e748]:
+                - link "Brigitte Wagner" [ref=e749] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Brigitte_Wagner
+                - text: (born 1983), wrestler
+              - listitem [ref=e750]:
+                - link "Maximilian Haas" [ref=e751] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Maximilian_Haas
+                - text: (born 1985), footballer
+              - listitem [ref=e752]:
+                - link "Maximilian Wittek" [ref=e753] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Maximilian_Wittek
+                - text: (born 1995), footballer
+              - listitem [ref=e754]:
+                - link "Veit Arnpeck" [ref=e755] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Veit_Arnpeck
+                - text: (c.
+                - generic [ref=e756]: "1440"
+                - text: ), Bavarian chronicler
+              - listitem [ref=e757]:
+                - link "Benignus von Safferling" [ref=e758] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Benignus_von_Safferling
+                - text: (1824–1899),
+                - link "General" [ref=e759] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/General
+                - text: of the Bavarian Army and
+                - link "War Minister" [ref=e760] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Ministry_of_War_(Kingdom_of_Bavaria)
+              - listitem [ref=e761]:
+                - link "Oskar von Niedermayer" [ref=e762] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Oskar_von_Niedermayer
+                - text: (1885–1948), officer and adventurer
+          - region [ref=e763]:
+            - generic [ref=e764]:
+              - heading "Points of interest" [level=2] [ref=e765]
+              - link "edit" [ref=e767] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=13
+            - list [ref=e768]:
+              - listitem [ref=e769]:
+                - link "Freising Cathedral" [ref=e770] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Freising_cathedral
+              - listitem [ref=e771]:
+                - link "St. Georg Church" [ref=e772] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Church_of_St._Georg_(Freising)?action=edit&redlink=1
+              - listitem [ref=e773]:
+                - link "Sichtungsgarten Weihenstephan" [ref=e774] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Sichtungsgarten_Weihenstephan
+                - text: ", a notable"
+                - link "horticultural" [ref=e775] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Horticulture
+                - text: garden
+              - listitem [ref=e776]:
+                - link "Freising Town Hall" [ref=e777] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Freising_Town_Hall?action=edit&redlink=1
+              - listitem [ref=e778]:
+                - link "Marienplatz" [ref=e779] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Marienplatz_(Freising)?action=edit&redlink=1
+            - list [ref=e780]:
+              - listitem [ref=e781]:
+                - link [ref=e784] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/File:Freisinger_Dom_(von_St._Georg).jpg
+                  - img "Freising Cathedral" [ref=e785]
+                - generic [ref=e786]: Freising Cathedral
+              - listitem [ref=e787]:
+                - link [ref=e790] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/File:Freising_Dom_St._Maria_&_Korbinian_Innen_05.JPG
+                  - img "Cathedral interior" [ref=e791]
+                - generic [ref=e792]: Cathedral interior
+              - listitem [ref=e793]:
+                - link [ref=e796] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/File:Freising_residenz.jpg
+                  - img "Bishop's Residence" [ref=e797]
+                - generic [ref=e798]: Bishop's Residence
+              - listitem [ref=e799]:
+                - link [ref=e802] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/File:Freising_marienplatz.jpg
+                  - img "Town Hall and St. George's Church" [ref=e803]
+                - generic [ref=e804]: Town Hall and St. George's Church
+              - listitem [ref=e805]:
+                - link [ref=e808] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/File:Alte_Poststraße_42_St._Peter_und_Paul_Freising-5.jpg
+                  - img "Neustift Abbey" [ref=e809]
+                - generic [ref=e810]: Neustift Abbey
+              - listitem [ref=e811]:
+                - link [ref=e814] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/File:Freising_-_Lyceum.jpg
+                  - img "Asam Building" [ref=e815]
+                - generic [ref=e816]: Asam Building
+              - listitem [ref=e817]:
+                - link [ref=e820] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/File:Brauerei_Weihenstephan.jpg
+                  - img "Weihenstephan Brewery" [ref=e821]
+                - generic [ref=e822]: Weihenstephan Brewery
+              - listitem [ref=e823]:
+                - link [ref=e826] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/File:Hofbraeuhaus_freising.jpg
+                  - img "Hofbrauhaus Brewery" [ref=e827]
+                - generic [ref=e828]: Hofbrauhaus Brewery
+          - region [ref=e829]:
+            - generic [ref=e830]:
+              - heading "Sports" [level=2] [ref=e831]
+              - link "edit" [ref=e833] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=14
+            - paragraph [ref=e834]:
+              - text: "Freising has 4 sport clubs:"
+              - link "SE Freising" [ref=e835] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/SC_Eintracht_Freising
+              - text: ","
+              - link "SV Vötting-Weihenstephan" [ref=e836] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/SV_Vötting-Weihenstephan
+              - text: ", SC Freising, and SG Eichenfeld."
+          - region [ref=e837]:
+            - generic [ref=e838]:
+              - heading "See also" [level=2] [ref=e839]
+              - link "edit" [ref=e841] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=15
+            - navigation "Portals" [ref=e842]:
+              - listitem [ref=e843]:
+                - img "flag" [ref=e847]
+                - link "Germany portal" [ref=e849] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Portal:Germany
+            - list [ref=e850]:
+              - listitem [ref=e851]:
+                - link "Prince-Bishopric of Freising" [ref=e852] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Prince-Bishopric_of_Freising
+          - region [ref=e853]:
+            - generic [ref=e854]:
+              - heading "References" [level=2] [ref=e855]
+              - link "edit" [ref=e857] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=16
+            - list [ref=e860]:
+              - listitem [ref=e861]:
+                - link "Jump up" [ref=e863] [cursor=pointer]:
+                  - /url: "#cite_ref-1"
+                  - text: ^
+                - generic [ref=e864]:
+                  - link "Liste der ersten Bürgermeister/Oberbürgermeister in kreisangehörigen Gemeinden" [ref=e865] [cursor=pointer]:
+                    - /url: https://www.statistik.bayern.de/wahlen/kommunalwahlen/bgm/
+                  - text: ","
+                  - link "Bayerisches Landesamt für Statistik" [ref=e866] [cursor=pointer]:
+                    - /url: https://en.wikipedia.org/wiki/Bayerisches_Landesamt_für_Statistik
+                  - text: ", 15 July 2021."
+              - listitem [ref=e867]:
+                - link "Jump up" [ref=e869] [cursor=pointer]:
+                  - /url: "#cite_ref-2"
+                  - text: ^
+                - generic [ref=e870]:
+                  - generic [ref=e871]:
+                    - link "\"Gemeinden, Kreise und Regierungsbezirke in Bayern, Einwohnerzahlen am 31. Dezember 2025\"" [ref=e872] [cursor=pointer]:
+                      - /url: https://www.statistik.bayern.de/mam/produkte/veroffentlichungen/statistische_berichte/a1210c_202500.pdf
+                    - text: "[Municipalities, districts, and administrative regions in Bavaria, population figures as of 31 December 2025] (PDF) (in German)."
+                    - link "Bayerisches Landesamt für Statistik" [ref=e873] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Bayerisches_Landesamt_für_Statistik
+                    - text: .
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=unknown&rft.btitle=Gemeinden%2C+Kreise+und+Regierungsbezirke+in+Bayern%2C+Einwohnerzahlen+am+31.+Dezember+2025&rft.pub=Bayerisches+Landesamt+f%C3%BCr+Statistik&rft_id=https%3A%2F%2Fwww.statistik.bayern.de%2Fmam%2Fprodukte%2Fveroffentlichungen%2Fstatistische_berichte%2Fa1210c_202500.pdf&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreising"
+              - listitem [ref=e874]:
+                - link "Jump up" [ref=e876] [cursor=pointer]:
+                  - /url: "#cite_ref-3"
+                  - text: ^
+                - generic [ref=e877]:
+                  - generic [ref=e878]:
+                    - link "\"Geschichte der Stadt Freising | Stadt Freising\"" [ref=e879] [cursor=pointer]:
+                      - /url: https://www.freising.de/stadtportraet/geschichte-der-stadt-freising
+                    - text: . www.freising.de (in German)
+                    - generic [ref=e880]: . Retrieved 2024-09-06
+                    - text: .
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=unknown&rft.jtitle=www.freising.de&rft.atitle=Geschichte+der+Stadt+Freising+%7C+Stadt+Freising&rft_id=https%3A%2F%2Fwww.freising.de%2Fstadtportraet%2Fgeschichte-der-stadt-freising&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreising"
+              - listitem [ref=e881]:
+                - link "Jump up" [ref=e883] [cursor=pointer]:
+                  - /url: "#cite_ref-4"
+                  - text: ^
+                - generic [ref=e884]:
+                  - generic [ref=e885]:
+                    - text: Kirchmaier, Sabina.
+                    - link "\"The story of Corbinian & the Bear\"" [ref=e886] [cursor=pointer]:
+                      - /url: https://tourismus.freising.de/en/sights/domberg-cathedral-hill/the-story-of-corbinian-the-bear
+                    - text: . tourismus.freising.de
+                    - generic [ref=e887]: . Retrieved 2024-09-06
+                    - text: .
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=unknown&rft.jtitle=tourismus.freising.de&rft.atitle=The+story+of+Corbinian+%26+the+Bear&rft.aulast=Kirchmaier&rft.aufirst=Sabina&rft_id=https%3A%2F%2Ftourismus.freising.de%2Fen%2Fsights%2Fdomberg-cathedral-hill%2Fthe-story-of-corbinian-the-bear&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreising"
+              - listitem [ref=e888]:
+                - link "Jump up" [ref=e890] [cursor=pointer]:
+                  - /url: "#cite_ref-5"
+                  - text: ^
+                - text: "Dr. R. Hennig, Katalog bemerkenswerter Witterungsereignisse. Berlin 1904; Originalquellen: Aventinus (Turmair), Johannes (gest. 1534): Annales Boiorum. Mit Nachtrag. Leipzig 1710; Annales Fuldenses, Chronik des Klosters Fulda. Bei Marquard Freher: Germanicarum rerum scriptores ua Frankfurt aM 1600–1611)"
+              - listitem [ref=e891]:
+                - link "Jump up" [ref=e893] [cursor=pointer]:
+                  - /url: "#cite_ref-6"
+                  - text: ^
+                - generic [ref=e894]:
+                  - generic [ref=e895]:
+                    - link "\"Tornadoliste Deutschland\"" [ref=e896] [cursor=pointer]:
+                      - /url: https://tornadoliste.de/788
+                    - text: . Tornadoliste Deutschland (in German)
+                    - generic [ref=e897]: . Retrieved 2024-09-06
+                    - text: .
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=unknown&rft.jtitle=Tornadoliste+Deutschland&rft.atitle=Tornadoliste+Deutschland&rft_id=https%3A%2F%2Ftornadoliste.de%2F788&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreising"
+              - listitem [ref=e898]:
+                - link "Jump up" [ref=e900] [cursor=pointer]:
+                  - /url: "#cite_ref-7"
+                  - text: ^
+                - generic [ref=e901]:
+                  - generic [ref=e902]:
+                    - text: Lins, Joseph (1911).
+                    - generic "s:Catholic Encyclopedia (1913)/Archdiocese of Munich-Freising" [ref=e903]:
+                      - link "\"Archdiocese of Munich-Freising\"" [ref=e904] [cursor=pointer]:
+                        - /url: https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Archdiocese_of_Munich-Freising
+                    - text: .
+                    - link "Catholic Encyclopedia" [ref=e906] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Catholic_Encyclopedia
+                    - text: . Vol. 10.
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=bookitem&rft.atitle=Archdiocese+of+Munich-Freising&rft.btitle=Catholic+Encyclopedia&rft.date=1911&rft.aulast=Lins&rft.aufirst=Joseph&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreising"
+              - listitem [ref=e907]:
+                - link "Jump up" [ref=e909] [cursor=pointer]:
+                  - /url: "#cite_ref-8"
+                  - text: ^
+                - text: "Hermann-Joseph Busley: Die Geschichte des Freisinger Domkapitels von den Anfängen bis zur Wende des 14./15. Jahrhunderts. Dissertation, Universität München 1956."
+              - listitem [ref=e910]:
+                - link "Jump up" [ref=e912] [cursor=pointer]:
+                  - /url: "#cite_ref-9"
+                  - text: ^
+                - generic [ref=e913]:
+                  - generic [ref=e914]:
+                    - link "\"Erpresserische Schweden\"" [ref=e915] [cursor=pointer]:
+                      - /url: https://www.sueddeutsche.de/muenchen/freising/freisinger-geschichte-erpresserische-schweden-1.4571477
+                    - text: . Süddeutsche.de (in German). 2019-08-21
+                    - generic [ref=e916]: . Retrieved 2024-09-06
+                    - text: .
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=unknown&rft.jtitle=S%C3%BCddeutsche.de&rft.atitle=Erpresserische+Schweden&rft.date=2019-08-21&rft_id=https%3A%2F%2Fwww.sueddeutsche.de%2Fmuenchen%2Ffreising%2Ffreisinger-geschichte-erpresserische-schweden-1.4571477&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreising"
+              - listitem [ref=e917]:
+                - link "Jump up" [ref=e919] [cursor=pointer]:
+                  - /url: "#cite_ref-10"
+                  - text: ^
+                - text: "Rainer Beck: Mäuselmacher oder die Imagination des Bösen – Ein Hexenprozess 1715–1723. 2. Auflage. C. H. Beck, München 2012, ISBN 978-3-406-62187-1."
+              - listitem [ref=e920]:
+                - link "Jump up" [ref=e922] [cursor=pointer]:
+                  - /url: "#cite_ref-11"
+                  - text: ^
+                - generic [ref=e923]: Sigmund Benker, Marianne Baumann-Engels, Freising. 1250 Jahre Geistliche Stadt. Ausstellung im Diözesanmuseum und in den historischen Räumen des Dombergs in Freising, 10. Juni bis 19. November 1989, Wewel, München 1989, ISBN 3-87904-162-8.
+              - listitem [ref=e924]:
+                - link "Jump up" [ref=e926] [cursor=pointer]:
+                  - /url: "#cite_ref-12"
+                  - text: ^
+                - generic [ref=e927]:
+                  - link "Diözesanmuseum Freising" [ref=e928] [cursor=pointer]:
+                    - /url: https://www.dimu-freising.de/museum/ueber-das-museum
+                  - text: ", accessed on 5 August 2025"
+              - listitem [ref=e929]:
+                - link "Jump up" [ref=e931] [cursor=pointer]:
+                  - /url: "#cite_ref-13"
+                  - text: ^
+                - text: 150 Jahre Eisenbahnstrecke München–Landshut 1858 bis 2008, Siegfried Haberstetter, Erich Bockschweiger, 2008.
+              - listitem [ref=e932]:
+                - link "Jump up" [ref=e934] [cursor=pointer]:
+                  - /url: "#cite_ref-14"
+                  - text: ^
+                - text: "Historischer Verein Freising (Hrsg.): Freising von 1945 bis 1950. 21. Sammelblatt des Historischen Vereins Freising für das Jahr 1950. Neue Münchner Verlags – G.m.b.H., München 1950."
+              - listitem [ref=e935]:
+                - link "Jump up" [ref=e937] [cursor=pointer]:
+                  - /url: "#cite_ref-:0_15-0"
+                  - text: ^
+                - generic [ref=e938]:
+                  - generic [ref=e939]:
+                    - text: "Steinberg, Guido (2013). \"Two Hamburg Cells: A History of Jihadist Terrorism in Germany\". German Jihad: On the Internationalization of Islamist Terrorism. Columbia studies in terrorism and irregular warfare. New York, NY: Columbia University Press. p. 37."
+                    - link "ISBN" [ref=e940] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/ISBN_(identifier)
+                    - link "978-0-231-50053-1" [ref=e941] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Special:BookSources/978-0-231-50053-1
+                    - text: .
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=bookitem&rft.atitle=Two+Hamburg+Cells%3A+A+History+of+Jihadist+Terrorism+in+Germany&rft.btitle=German+Jihad%3A+On+the+Internationalization+of+Islamist+Terrorism&rft.place=New+York%2C+NY&rft.series=Columbia+studies+in+terrorism+and+irregular+warfare&rft.pages=37&rft.pub=Columbia+University+Press&rft.date=2013&rft.isbn=978-0-231-50053-1&rft.aulast=Steinberg&rft.aufirst=Guido&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreising"
+              - listitem [ref=e942]:
+                - link "Jump up" [ref=e944] [cursor=pointer]:
+                  - /url: "#cite_ref-16"
+                  - text: ^
+                - generic [ref=e945]:
+                  - generic [ref=e946]:
+                    - link "\"Papstbesuch 2006\"" [ref=e947] [cursor=pointer]:
+                      - /url: https://www.erzbistum-muenchen.de/ueber-uns/dioezesangeschichte/papst-benedikt-xvi/und-das-erzbistum/cont/74156
+                    - text: . www.erzbistum-muenchen.de (in German)
+                    - generic [ref=e948]: . Retrieved 2024-09-06
+                    - text: .
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=unknown&rft.jtitle=www.erzbistum-muenchen.de&rft.atitle=Papstbesuch+2006&rft_id=https%3A%2F%2Fwww.erzbistum-muenchen.de%2Fueber-uns%2Fdioezesangeschichte%2Fpapst-benedikt-xvi%2Fund-das-erzbistum%2Fcont%2F74156&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreising"
+              - listitem [ref=e949]:
+                - link "Jump up" [ref=e951] [cursor=pointer]:
+                  - /url: "#cite_ref-17"
+                  - text: ^
+                - generic [ref=e952]:
+                  - generic [ref=e953]:
+                    - link "\"Partnerstädte\"" [ref=e954] [cursor=pointer]:
+                      - /url: https://web.archive.org/web/20210218053424/https://www.partnerschaftsverein-freising.de/partnerstaedte.htm
+                    - text: . partnerschaftsverein-freising.de (in German). Partnerschaftsverein Freising. Archived from
+                    - link "the original" [ref=e955] [cursor=pointer]:
+                      - /url: https://www.partnerschaftsverein-freising.de/partnerstaedte.htm
+                    - text: on 2021-02-18
+                    - generic [ref=e956]: . Retrieved 2021-02-03
+                    - text: .
+                  - generic "ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=unknown&rft.jtitle=partnerschaftsverein-freising.de&rft.atitle=Partnerst%C3%A4dte&rft_id=https%3A%2F%2Fwww.partnerschaftsverein-freising.de%2Fpartnerstaedte.htm&rfr_id=info%3Asid%2Fen.wikipedia.org%3AFreising"
+          - region [ref=e957]:
+            - generic [ref=e958]:
+              - heading "External links" [level=2] [ref=e959]
+              - link "edit" [ref=e961] [cursor=pointer]:
+                - /url: /w/index.php?title=Freising&action=edit&section=17
+            - generic [ref=e963]:
+              - link [ref=e966] [cursor=pointer]:
+                - /url: https://en.wikipedia.org/wiki/File:Commons-logo.svg
+                - img "Wikimedia Commons logo" [ref=e967]
+              - generic [ref=e968]:
+                - text: Wikimedia Commons has media related to
+                - link "Freising" [ref=e969] [cursor=pointer]:
+                  - /url: https://commons.wikimedia.org/wiki/Category:Freising
+                - text: .
+            - list [ref=e970]:
+              - listitem [ref=e971]:
+                - link [ref=e973] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/File:Wikivoyage-Logo-v3-icon.svg
+                  - img "Wikivoyage logo" [ref=e974]
+                - link "Freising" [ref=e975] [cursor=pointer]:
+                  - /url: https://en.wikivoyage.org/wiki/Freising#Q6998
+                - text: travel guide from Wikivoyage
+              - listitem [ref=e976]:
+                - link "Official website" [ref=e979] [cursor=pointer]:
+                  - /url: https://www.freising.de/
+                - link [ref=e981] [cursor=pointer]:
+                  - /url: https://www.wikidata.org/wiki/Q6998#P856
+                  - img "Edit this at Wikidata" [ref=e982]
+                - text: (in German)
+              - listitem [ref=e983]:
+                - link "Bavarian state library" [ref=e984] [cursor=pointer]:
+                  - /url: https://www.bsb-muenchen.de/
+              - listitem [ref=e985]:
+                - link "Pictures of Freising" [ref=e986] [cursor=pointer]:
+                  - /url: http://www.hickerphoto.com/freising-photos.htm
+                - link "Archived" [ref=e987] [cursor=pointer]:
+                  - /url: https://web.archive.org/web/20110927010758/http://www.hickerphoto.com/freising-photos.htm
+                - text: 2011-09-27 at the
+                - link "Wayback Machine" [ref=e988] [cursor=pointer]:
+                  - /url: https://en.wikipedia.org/wiki/Wayback_Machine
+              - listitem [ref=e989]:
+                - link "Freising during the Third Reich" [ref=e990] [cursor=pointer]:
+                  - /url: https://www.tracesofevil.com/search/label/Freising/
+            - navigation [ref=e991]:
+              - table [ref=e992]:
+                - rowgroup [ref=e993]:
+                  - row [ref=e994]:
+                    - columnheader [ref=e995]:
+                      - button "[show]" [ref=e996] [cursor=pointer]
+                      - list [ref=e998]:
+                        - listitem [ref=e999]:
+                          - link "v" [ref=e1000] [cursor=pointer]:
+                            - /url: https://en.wikipedia.org/wiki/Template:Cities_and_towns_in_Freising_(district)
+                          - text: ·
+                        - listitem [ref=e1001]:
+                          - link "t" [ref=e1002] [cursor=pointer]:
+                            - /url: https://en.wikipedia.org/wiki/Template_talk:Cities_and_towns_in_Freising_(district)
+                          - text: ·
+                        - listitem [ref=e1003]:
+                          - link "e" [ref=e1004] [cursor=pointer]:
+                            - /url: https://en.wikipedia.org/wiki/Special:EditPage/Template:Cities_and_towns_in_Freising_(district)
+                      - generic [ref=e1005]:
+                        - text: Towns and municipalities in
+                        - link "Freising (district)" [ref=e1006] [cursor=pointer]:
+                          - /url: https://en.wikipedia.org/wiki/Freising_(district)
+                  - row: · · · · · · · · · · · · · · · · · · · · · · ·
+            - navigation [ref=e1007]:
+              - table [ref=e1008]:
+                - rowgroup [ref=e1009]:
+                  - row [ref=e1010]:
+                    - columnheader [ref=e1011]:
+                      - button "[show]" [ref=e1012] [cursor=pointer]
+                      - generic [ref=e1013]:
+                        - link "Authority control databases" [ref=e1014] [cursor=pointer]:
+                          - /url: https://en.wikipedia.org/wiki/Help:Authority_control
+                        - link [ref=e1016] [cursor=pointer]:
+                          - /url: https://www.wikidata.org/wiki/Q6998#identifiers
+                          - img "Edit this at Wikidata" [ref=e1017]
+                  - row: · ·
+                  - row: · · · ·
+                  - row
+                  - row: ·
+        - generic [ref=e1019]:
+          - link "Categories" [ref=e1020] [cursor=pointer]:
+            - /url: /wiki/Help:Category
+          - text: ":"
+          - list [ref=e1021]:
+            - listitem [ref=e1022]:
+              - link "Towns in Bavaria" [ref=e1023] [cursor=pointer]:
+                - /url: /wiki/Category:Towns_in_Bavaria
+            - listitem [ref=e1024]:
+              - link "Freising (district)" [ref=e1025] [cursor=pointer]:
+                - /url: /wiki/Category:Freising_(district)
+    - contentinfo [ref=e1027]:
+      - list [ref=e1028]:
+        - listitem [ref=e1029]: This page was last edited on 30 September 2026, at 00:58 (UTC).
+        - listitem [ref=e1030]:
+          - text: Page was rendered with
+          - link "Parsoid" [ref=e1031] [cursor=pointer]:
+            - /url: https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid
+          - text: .
+        - listitem [ref=e1032]:
+          - text: Text is available under the
+          - link "Creative Commons Attribution-ShareAlike 4.0 License" [ref=e1033] [cursor=pointer]:
+            - /url: /wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+          - text: ; additional terms may apply. By using this site, you agree to the
+          - link "Terms of Use" [ref=e1034] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+          - text: and
+          - link "Privacy Policy" [ref=e1035] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+          - text: . Wikipedia® is a registered trademark of the
+          - link "Wikimedia Foundation, Inc." [ref=e1036] [cursor=pointer]:
+            - /url: https://wikimediafoundation.org/
+          - text: ", a non-profit organization."
+      - list:
+        - listitem [ref=e1037]:
+          - link "Privacy policy" [ref=e1038] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+        - listitem [ref=e1039]:
+          - link "About Wikipedia" [ref=e1040] [cursor=pointer]:
+            - /url: /wiki/Wikipedia:About
+        - listitem [ref=e1041]:
+          - link "Disclaimers" [ref=e1042] [cursor=pointer]:
+            - /url: /wiki/Wikipedia:General_disclaimer
+        - listitem [ref=e1043]:
+          - link "Contact Wikipedia" [ref=e1044] [cursor=pointer]:
+            - /url: //en.wikipedia.org/wiki/Wikipedia:Contact_us
+        - listitem [ref=e1045]:
+          - link "Legal & safety contacts" [ref=e1046] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information
+        - listitem [ref=e1047]:
+          - link "Code of Conduct" [ref=e1048] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+        - listitem [ref=e1049]:
+          - link "Developers" [ref=e1050] [cursor=pointer]:
+            - /url: https://developer.wikimedia.org
+        - listitem [ref=e1051]:
+          - link "Statistics" [ref=e1052] [cursor=pointer]:
+            - /url: https://stats.wikimedia.org/#/en.wikipedia.org
+        - listitem [ref=e1053]:
+          - link "Cookie statement" [ref=e1054] [cursor=pointer]:
+            - /url: https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+        - listitem [ref=e1055]:
+          - link "Mobile view" [ref=e1056] [cursor=pointer]:
+            - /url: //en.wikipedia.org/w/index.php?title=Freising&mobileaction=toggle_view_mobile
+      - list [ref=e1057]:
+        - listitem [ref=e1058]:
+          - link [ref=e1059] [cursor=pointer]:
+            - /url: https://www.wikimedia.org/
+            - img "Wikimedia Foundation" [ref=e1061]
+        - listitem [ref=e1062]:
+          - link [ref=e1063] [cursor=pointer]:
+            - /url: https://www.mediawiki.org/
+            - img "Powered by MediaWiki" [ref=e1065]
+  - generic [ref=e1066]:
+    - list

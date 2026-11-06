@@ -1,0 +1,2 @@
+[     516ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.booking.com/favicon.ico:0
+[    3302ms] [ERROR] Not signed in with the identity provider. @ https://www.booking.com/searchresults.en-gb.html?ss=Langenbach%2C+Bavaria%2C+Germany&nflt=class%3D5&order=distance_from_search&chal_t=1793896297289&force_referer=:0

@@ -1,0 +1,55 @@
+from dotenv import load_dotenv
+from langchain_groq import ChatGroq
+
+from mcp_use import MCPAgent, MCPClient
+import os
+import asyncio
+
+async def run_memory_chat():
+    """Run a chat using MCP Agent's built in conversational memory"""
+    load_dotenv()
+    os.environ["GROQ_API_KEY"] = os.getenv("GROQ_API_KEY")
+    config_file = "browser_mcp.json"
+
+    print("Initializing chat...")
+
+    client = MCPClient.from_config_file(config_file)
+    llm = ChatGroq(model = "openai/gpt-oss-120b")
+
+    agent = MCPAgent(
+        llm=llm,
+        client=client,
+        max_steps=15, 
+        memory_enabled = True
+    )
+
+    print("\n----------Interactive MCP Chat------------")
+    print("\n----------Type exit to quit the conversation------------")
+    print("\n----------Type clear to clear conversation history------------")
+
+    try:
+        while True:
+            user_input = input("\nYou:")
+
+            if user_input.lower() in ["exit","quit"]:
+                print("Ending conversation....")
+
+            if user_input.lower() == "clear":
+                agent.clear_conversation_history()
+                print("Conversation history cleared!")
+                continue
+
+            print("\nAssistant: ", end="", flush=True)
+
+            try:
+                response = await agent.run(user_input)
+                print(response)
+            except Exception as e:
+                print(f"\nError:{e}")
+    finally:
+        if client and client.sessions:
+            await client.close_all_sessions()
+
+if __name__ == "__main__":
+    asyncio.run(run_memory_chat())
+

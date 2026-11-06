@@ -1,0 +1,4 @@
+[    1406ms] [ERROR] Permissions policy violation: accelerometer is not allowed in this document. @ https://www.makemytrip.com/nihaJUzXS8B_DVBzAL8w/5Nu1tfErih9QcpibuY/VjtXHEtQXw/OVlNWRF/cRXw:0
+[    1406ms] [WARNING] The deviceorientation events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ https://www.makemytrip.com/nihaJUzXS8B_DVBzAL8w/5Nu1tfErih9QcpibuY/VjtXHEtQXw/OVlNWRF/cRXw:0
+[    1406ms] [ERROR] Permissions policy violation: accelerometer is not allowed in this document. @ https://www.makemytrip.com/nihaJUzXS8B_DVBzAL8w/5Nu1tfErih9QcpibuY/VjtXHEtQXw/OVlNWRF/cRXw:0
+[    1406ms] [WARNING] The devicemotion events are blocked by permissions policy. See https://github.com/w3c/webappsec-permissions-policy/blob/master/features.md#sensor-features @ https://www.makemytrip.com/nihaJUzXS8B_DVBzAL8w/5Nu1tfErih9QcpibuY/VjtXHEtQXw/OVlNWRF/cRXw:0
